@@ -1,0 +1,20 @@
+Problem Statement: 
+
+Suppose you are a public school administrator. Some schools in your state of Tennessee are performing 
+below average academically. Your superintendent under pressure from frustrated parents and voters approached 
+you with the task of understanding why these schools are under-performing. 
+
+To improve school performance, you need to learn more about these schools and their students, just as a business 
+needs to understand its own strengths and weaknesses and its customers. The data includes various demographic, 
+school faculty, and income variables. 
+
+Objective: 
+
+Perform exploratory data analysis which includes: determining the type of the data, correlation analysis 
+over the same. 
+
+You need to convert the data into useful information: 
+
+▪ Read the data in pandas data frame 
+▪ Describe the data to find more details 
+▪ Find the correlation between ‘reduced_lunch’and‘school_rating’
